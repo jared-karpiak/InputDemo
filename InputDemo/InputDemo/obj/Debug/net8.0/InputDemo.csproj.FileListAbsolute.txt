@@ -1,0 +1,14 @@
+C:\Users\JKARPIAK\source\repos\InputDemo\InputDemo\bin\Debug\net8.0\InputDemo.exe
+C:\Users\JKARPIAK\source\repos\InputDemo\InputDemo\bin\Debug\net8.0\InputDemo.deps.json
+C:\Users\JKARPIAK\source\repos\InputDemo\InputDemo\bin\Debug\net8.0\InputDemo.runtimeconfig.json
+C:\Users\JKARPIAK\source\repos\InputDemo\InputDemo\bin\Debug\net8.0\InputDemo.dll
+C:\Users\JKARPIAK\source\repos\InputDemo\InputDemo\bin\Debug\net8.0\InputDemo.pdb
+C:\Users\JKARPIAK\source\repos\InputDemo\InputDemo\obj\Debug\net8.0\InputDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JKARPIAK\source\repos\InputDemo\InputDemo\obj\Debug\net8.0\InputDemo.AssemblyInfoInputs.cache
+C:\Users\JKARPIAK\source\repos\InputDemo\InputDemo\obj\Debug\net8.0\InputDemo.AssemblyInfo.cs
+C:\Users\JKARPIAK\source\repos\InputDemo\InputDemo\obj\Debug\net8.0\InputDemo.csproj.CoreCompileInputs.cache
+C:\Users\JKARPIAK\source\repos\InputDemo\InputDemo\obj\Debug\net8.0\InputDemo.dll
+C:\Users\JKARPIAK\source\repos\InputDemo\InputDemo\obj\Debug\net8.0\refint\InputDemo.dll
+C:\Users\JKARPIAK\source\repos\InputDemo\InputDemo\obj\Debug\net8.0\InputDemo.pdb
+C:\Users\JKARPIAK\source\repos\InputDemo\InputDemo\obj\Debug\net8.0\InputDemo.genruntimeconfig.cache
+C:\Users\JKARPIAK\source\repos\InputDemo\InputDemo\obj\Debug\net8.0\ref\InputDemo.dll
